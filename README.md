@@ -1,7 +1,7 @@
 <h1 align="center">Synth</h1>
 
 <p align="center">
-  Real-time face swap and video deepfake with a single click and only a single image.
+  Real-time, flexible and extensible face-swapping framework powered by Rixy Ai
 </p>
 
 <p align="center">
