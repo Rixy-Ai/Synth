@@ -319,25 +319,11 @@ options:
 
 Looking for a CLI mode? Using the -s/--source argument will make the run program in cli mode.
 
-## Press
 
-**We are always open to criticism and are ready to improve, that's why we didn't cherry-pick anything.**
-
- - [*"Synth goes viral, allowing anyone to become a digital doppelganger"*](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/) - Ars Technica
- - [*"Thanks Deep Live Cam, shapeshifters are among us now"*](https://dataconomy.com/2024/08/15/what-is-Synth-github-deepfake/) - Dataconomy
- - [*"This free AI tool lets you become anyone during video-calls"*](https://www.newsbytesapp.com/news/science/Synth-ai-impersonation-tool-goes-viral/story) - NewsBytes
- - [*"OK, this viral AI live stream software is truly terrifying"*](https://www.creativebloq.com/ai/ok-this-viral-ai-live-stream-software-is-truly-terrifying) - Creative Bloq
- - [*"Deepfake AI Tool Lets You Become Anyone in a Video Call With Single Photo"*](https://petapixel.com/2024/08/14/Synth-deepfake-ai-tool-lets-you-become-anyone-in-a-video-call-with-single-photo-mark-zuckerberg-jd-vance-elon-musk/) - PetaPixel
- - [*"Synth Uses AI to Transform Your Face in Real-Time, Celebrities Included"*](https://www.techeblog.com/Synth-ai-transform-face/) - TechEBlog
- - [*"An AI tool that "makes you look like anyone" during a video call is going viral online"*](https://telegrafi.com/en/a-tool-that-makes-you-look-like-anyone-during-a-video-call-is-going-viral-on-the-Internet/) - Telegrafi
- - [*"This Deepfake Tool Turning Images Into Livestreams is Topping the GitHub Charts"*](https://decrypt.co/244565/this-deepfake-tool-turning-images-into-livestreams-is-topping-the-github-charts) - Emerge
- - [*"New Real-Time Face-Swapping AI Allows Anyone to Mimic Famous Faces"*](https://www.digitalmusicnews.com/2024/08/15/face-swapping-ai-real-time-mimic/) - Digital Music News
- - [*"This real-time webcam deepfake tool raises alarms about the future of identity theft"*](https://www.diyphotography.net/this-real-time-webcam-deepfake-tool-raises-alarms-about-the-future-of-identity-theft/) - DIYPhotography
- - [*"That's Crazy, Oh God. That's Fucking Freaky Dude... That's So Wild Dude"*](https://www.youtube.com/watch?time_continue=1074&v=py4Tc-Y8BcY) - SomeOrdinaryGamers
- - [*"Alright look look look, now look chat, we can do any face we want to look like chat"*](https://www.youtube.com/live/mFsCe7AIxq8?feature=shared&t=2686) - IShowSpeed
 
 ## Credits
 
+-   [Deep-Live-Cam](https://deeplivecam.net/): project which provided a great face-swapping framework foundation to build from
 -   [ffmpeg](https://ffmpeg.org/): for making video-related operations easy
 -   [deepinsight](https://github.com/deepinsight): for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models. Please be reminded that the [use of the model is for non-commercial research purposes only](https://github.com/deepinsight/insightface?tab=readme-ov-file#license).
 -   [havok2-htwo](https://github.com/havok2-htwo): for sharing the code for webcam
@@ -346,22 +332,8 @@ Looking for a CLI mode? Using the -s/--source argument will make the run program
 -   [vic4key](https://github.com/vic4key): For supporting/contributing to this project
 -   [kier007](https://github.com/kier007): for improving the user experience
 -   [qitianai](https://github.com/qitianai): for multi-lingual support
--   and [all developers](https://github.com/hacksider/Synth/graphs/contributors) behind libraries used in this project.
--   Footnote: Please be informed that the base author of the code is [s0md3v](https://github.com/s0md3v/roop)
--   All the wonderful users who helped make this project go viral by starring the repo ❤️
+-   [Justin Malonson](https:/justinmalonson.com/): for overseeing technology and innovation strategy
+-   [Rixy-Ai](https://github.com/Rixy-Ai/)): for overseeing AI Architecture and development
 
-[![Stargazers](https://reporoster.com/stars/hacksider/Synth)](https://github.com/hacksider/Synth/stargazers)
 
-## Contributions
 
-![Alt](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg "Repobeats analytics image")
-
-## Stars to the Moon 🚀
-
-<a href="https://star-history.com/#hacksider/Synth&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hacksider/Synth&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hacksider/Synth&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hacksider/Synth&type=Date" />
- </picture>
-</a>
