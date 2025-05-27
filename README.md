@@ -332,7 +332,7 @@ Looking for a CLI mode? Using the -s/--source argument will make the run program
 -   [vic4key](https://github.com/vic4key): For supporting/contributing to this project
 -   [kier007](https://github.com/kier007): for improving the user experience
 -   [qitianai](https://github.com/qitianai): for multi-lingual support
--   [Justin Malonson](https:/justinmalonson.com/): for overseeing technology and innovation strategy
+-   [Justin Malonson](https://justinmalonson.com) for overseeing technology and innovation strategy
 -   [Rixy-Ai](https://github.com/Rixy-Ai/)): for overseeing AI Architecture and development
 
 
